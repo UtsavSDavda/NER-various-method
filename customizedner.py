@@ -1,3 +1,4 @@
+#This the file where train NER model.
 import spacy
 from spacy.util import minibatch,compounding
 from spacy.training import Example,offsets_to_biluo_tags
