@@ -1,3 +1,4 @@
+#This is the file where we add patterns of labels to the EntityRuler model.
 import spacy
 from spacy.matcher import Matcher
 import pandas as pd
